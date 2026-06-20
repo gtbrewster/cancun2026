@@ -147,7 +147,7 @@ function statusTone(status: DayRow["lodgingStatus"]): "success" | "warning" | "n
   return "neutral";
 }
 
-export default function YucatanTripOptions() {
+export default function Cancun2026TripOptions() {
   const theme = useHostTheme();
   const [activeId, setActiveId] = useState("a");
   const active = OPTIONS.find((o) => o.id === activeId) ?? OPTIONS[0];

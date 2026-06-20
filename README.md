@@ -18,7 +18,7 @@ Trip planning for 2 adults, rental car, Mexico (Cancun → Valladolid → Chiche
 
 ## Itinerary options
 
-Open the interactive canvas in Cursor: `canvases/yucatan-trip-options.canvas.tsx`
+Open the interactive canvas in Cursor: `canvases/cancun2026-trip-options.canvas.tsx`
 
 | Option | Summary | Jul 7 drive |
 |--------|---------|-------------|

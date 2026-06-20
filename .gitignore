@@ -1,4 +1,5 @@
 node_modules/
 *.canvas.data.json
+*.canvas.status.json
 .DS_Store
 Thumbs.db

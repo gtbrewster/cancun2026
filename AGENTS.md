@@ -54,4 +54,4 @@ Chill: Martina, Lido, Zenzi, Fragata.
 
 ## Canvas
 
-Primary artifact: `canvases/yucatan-trip-options.canvas.tsx` — interactive comparison of A / G / H with full schedules and Jul 4 hour-by-hour.
+Primary artifact: `canvases/cancun2026-trip-options.canvas.tsx` — interactive comparison of A / G / H with full schedules and Jul 4 hour-by-hour.
