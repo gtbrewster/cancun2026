@@ -1,0 +1,4 @@
+node_modules/
+*.canvas.data.json
+.DS_Store
+Thumbs.db
